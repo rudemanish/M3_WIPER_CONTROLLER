@@ -45,19 +45,26 @@ while the button is pressed again for 2 sec than the Red lED stop glowing and in
 
 ![OUTPUT1](https://user-images.githubusercontent.com/101269445/168568368-247ff529-4d58-4348-b136-eb2a8d138833.png)
 
+
 ![OUTPUT2](https://user-images.githubusercontent.com/101269445/168568404-bd8c62c9-180d-413a-a52d-29cd8b5ed7d0.png)
+
 
 ![OUTPUT3](https://user-images.githubusercontent.com/101269445/168568427-e79715f7-c253-42ee-b947-7eb8b1fdd818.png)
 
+
 ![OUPUT4](https://user-images.githubusercontent.com/101269445/168568454-58ebb2f3-beb9-4e8e-81d4-898d70c64847.png)
+
 
 ![OUTPUT5](https://user-images.githubusercontent.com/101269445/168568488-d9a7966b-ad2d-4765-8ada-cccae52f6920.png)
 
+
 ![OUTPUT6](https://user-images.githubusercontent.com/101269445/168568516-f62cc28d-c292-4388-8918-d4684a07660e.png)
+
 
 # TEST CASES
 
 ![TEST CASES](https://user-images.githubusercontent.com/101269445/168568616-67b75ee0-c363-4ec5-80bc-1d132c262eef.png)
+
 
 ![TEST CASES2](https://user-images.githubusercontent.com/101269445/168568636-58d1bb7e-8ea8-4ddf-b64e-92cc17c93e33.png)
 
