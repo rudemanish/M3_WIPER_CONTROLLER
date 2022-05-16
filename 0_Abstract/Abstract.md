@@ -10,6 +10,16 @@ The fact that the refraction angle and amount of light reflection varies when th
 
 The wiper system may fail to activate when there are some raindrops on the driver’s line of sight, but not on the sensing area. They are often too expensive, too unsightly, or too unreliable to be desired in new automobiles.
 
+# OBJECTIVE OF PROJECT
+
+Windshield wipers may be a little component of your vehicle, but they have a significant impact on your driving and overall safety.
+
+At the touch of a button, they remove rain, snow, dirt, pollen, frost, and other debris fast and smoothly!
+
+The wiper arms are moved across the windshield by the windshield wiper motor. The metal or hard plastic arms pull a thin rubber (or silicone) blade over the windshield to clean water from the lens, allowing you to see the road better.
+
+Wiper blades break, rip, and lose their flexibility and functionality with time. Wipers are harmed by a variety of factors, including road grit, bird droppings, severe temperatures, and UV light.
+
 # Features
 
 1. It will lock the vehicle when the button is squeezed once
